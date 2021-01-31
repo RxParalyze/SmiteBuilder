@@ -4,3 +4,5 @@
 
 /.vs
 /app/target/
+
+app/src/main/resources/smite_dev_key.json
